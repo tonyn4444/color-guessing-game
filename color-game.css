@@ -9,3 +9,12 @@ body {
 	padding-bottom: 30%;
 	float: left;
 }
+
+h1 {
+	color: white;
+	text-transform: uppercase;
+}
+
+span {
+	color: white;
+}
